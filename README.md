@@ -52,7 +52,7 @@ for c++ use cpp instead of python
 
 ### Image
 
-![Image](git.png)
+![Image](Images/git.png)
 
 ### Tables
 
