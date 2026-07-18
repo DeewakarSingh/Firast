@@ -47,12 +47,12 @@ for c++ use cpp instead of python
 
 ### Hyperlinks 
 
-[Github](https://github.com/)
-[Youtube](https://youtu.be/RGOj5yH7evk?si=nsA7zouxjvxQ_4on)
+- [Github](https://github.com/)
+- [Youtube](https://youtu.be/RGOj5yH7evk?si=nsA7zouxjvxQ_4on)
 
 ### Image
 
-![Image](https://github.com/DeewakarSingh/Firast/blob/main/Screenshot%202026-04-10%20102733.png)
+![Image](git.png)
 
 ### Tables
 
